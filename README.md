@@ -1,7 +1,7 @@
-# AustinHousingDataAnalysis
+# AustinHousingDataAnalysis with PowerBI
 I'm currently working on this project
 
-#Tools
+# Tools
  - PowerBI
  - PowerQuery
  - DAX
