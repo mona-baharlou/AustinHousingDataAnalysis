@@ -1,4 +1,4 @@
-# AustinHousingDataAnalysis with PowerBI
+# Austin Housing Data Analysis with PowerBI
 I'm currently working on this project
 
 This Power BI dashboard provides a comprehensive analysis of real estate properties and school data in Austin, Texas. It combines key metrics related to home prices, property characteristics, and school ratings to offer insights for potential buyers, investors, or researchers.
